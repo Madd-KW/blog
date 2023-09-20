@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on dArchives</title>
-    <link>https://daire.eu.org/categories/</link>
+    <link>https://daire.eu.org/blog/categories/</link>
     <description>Recent content in Categories on dArchives</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
-    <copyright>Dai R.E</copyright><atom:link href="https://daire.eu.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Dai R.E</copyright><atom:link href="https://daire.eu.org/blog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

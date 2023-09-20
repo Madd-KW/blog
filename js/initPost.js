@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var params_default = { baseURL: "https://daire.eu.org/" };
+  var params_default = { baseURL: "https://daire.eu.org/blog/" };
 
   // <stdin>
   var scriptMd5 = document.createElement("script");
