@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var baseURL = "/";
+  var baseURL = "https://daire.eu.org/";
   var params = { blogroll: [{ name: "Github", url: "https://github.com/" }, { name: "Dai.", url: "https://daire.eu.org/" }], defaultcover: "https://raw.githubusercontent.com/dai-re/dai-re/main/20230919_200038.jpg", email: "me@daire.eu.org", showcopyright: true, showmore: true, showrss: true, socialmedia: [{ name: "Github", url: "https://github.com/dai-re" }, { name: "Twitter", url: "https://twitter.com/03ii00" }, { name: "Facebook", url: "https://facebook.com/daire.it" }, { name: "Instagram", url: "https://instagram.com/dei.terada" }] };
 
   // <stdin>
