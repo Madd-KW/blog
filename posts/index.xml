@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dArchives</title>
-    <link>https://daire.eu.org/blog/</link>
-    <description>Recent content on dArchives</description>
+    <title>Posts on dArchives</title>
+    <link>https://daire.eu.org/blog/posts/</link>
+    <description>Recent content in Posts on dArchives</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
     <copyright>Dai R.E</copyright>
-    <lastBuildDate>Thu, 21 Sep 2023 16:16:38 +0800</lastBuildDate><atom:link href="https://daire.eu.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2023 16:16:38 +0800</lastBuildDate><atom:link href="https://daire.eu.org/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kamera murah untuk pemula</title>
       <link>https://daire.eu.org/blog/posts/kamera-murah-untuk-pemula/</link>
@@ -17,16 +17,6 @@
       <description>Apasih DSLR? DSLR adalah singkatan dari Digital Single-Lens Reflex, yaitu jenis kamera digital yang menggunakan sistem cermin dan lensa tunggal untuk menghasilkan gambar yang berkualitas tinggi.
 Mungkin DSLR sudah dianggap barang jadul menurut sebagian orang, namun sebenarnya DSLR masih sangat relevan dalam dunia fotografi. Kualitas gambar yang dihasilkan, kemampuan mengubah lensa, dan kontrol manual yang lebih baik membuat DSLR tetap menjadi pilihan bagi fotografer profesional.
 DSLR vs Mirrorless DSLR dan kamera mirrorless adalah dua jenis kamera yang berbeda.</description>
-    </item>
-    
-    <item>
-      <title>Saya</title>
-      <link>https://daire.eu.org/blog/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://daire.eu.org/blog/about/</guid>
-      <description>Halo, nama saya Dai, seorang fotografer dan programmer dari Indonesia. Saya suka mengabadikan momen-momen indah dengan kamera saya, dan juga menciptakan aplikasi-aplikasi menarik dengan kode saya. Saya memiliki blog ini untuk berbagi pengalaman, tips, dan inspirasi seputar dunia fotografi dan pemrograman. Saya berharap blog ini bisa bermanfaat bagi Anda yang memiliki minat yang sama dengan saya.
-Saya telah menjadi fotografer sejak tahun 2018, dan telah mengambil banyak foto dari berbagai genre, seperti potret, pemandangan, makro, dan lain-lain.</description>
     </item>
     
   </channel>
